@@ -8,7 +8,7 @@ public class DBDao {
 		try {
 			DBUtil.getConn();
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
+			// TODO
 			e.printStackTrace();
 		}
 	}
